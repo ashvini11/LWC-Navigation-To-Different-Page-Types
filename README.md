@@ -1,0 +1,1 @@
+# LWC-Navigation-To-Different-Page-Types
